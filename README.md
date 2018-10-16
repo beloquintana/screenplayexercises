@@ -2,4 +2,4 @@
 
 **Class Diagram**
 
-![alt text](Resource/classDiagram.png "Description goes here")
+![alt text](Resource/classDiagram.png "ScreenPlay C#")
