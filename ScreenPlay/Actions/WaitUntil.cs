@@ -18,9 +18,10 @@ namespace ScreenPlay.Actions
                 wait.Until(drv => drv.FindElement(locator));
                 return true;
             }
-            catch { }
-
-            return false;
+            catch
+            {
+                return false;
+            }            
         }
     }
 }
