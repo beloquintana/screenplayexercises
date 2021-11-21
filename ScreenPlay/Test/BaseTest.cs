@@ -12,7 +12,7 @@ namespace ScreenPlay.Test
     public class BaseTest
     {
         protected IWebDriver Driver;
-        protected string Url = "http://verstandqa.com/ejercicios/";
+        protected string Url = "https://testfaceclub.com/ejercicios/";
 
         [SetUp]
         public void SetUpBase()
