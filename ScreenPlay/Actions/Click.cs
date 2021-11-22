@@ -2,7 +2,7 @@
 
 namespace ScreenPlay.Actions
 {
-    class Click
+    public class Click
     {
         public static void On(IWebDriver driver, By locator)
         {
